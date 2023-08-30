@@ -16,7 +16,8 @@ size_t binary_tree_size(const binary_tree_t *tree)
 }
 
 /**
- * tree_is_complete - a function that checks if tree is complete
+ * tree_is_complete - a function that checks
+ * if tree is complete
  * @tree: pointer to the tree root
  * @i: node index
  * @cnodes: number of nodes

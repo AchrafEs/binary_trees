@@ -1,8 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * max - a function that Finds the
- * maximum node in a tree.
+ * max - Finds the maximum node in a tree.
  * @tree: The pointer to the root of the tree.
  *
  * Return: The node with the maximum value.
@@ -30,8 +29,7 @@ heap_t *max(heap_t *tree)
 }
 
 /**
- * recurse_extract - a function that Recursively
- * extracts the max from the tree.
+ * recurse_extract - Recursively extracts the max from the tree.
  * @tree: The pointer to the root of the tree.
  *
  * Return: Nothing
@@ -61,8 +59,7 @@ void recurse_extract(heap_t *tree)
 }
 
 /**
- * heap_extract - a function that Extracts
- * the root from a Binary Heap.
+ * heap_extract - Extracts the root from a Binary Heap.
  * @root: The pointer to the root of the tree.
  *
  * Return: The value of the extracted node.

@@ -45,10 +45,10 @@ int two_children(bst_t *root)
 }
 
 /**
- *remove_type - function that removes a node depending of its children
- *@root: node to remove
-
- *Return: 0 if it has no children or other value if it has
+ * remove_type - function that removes a nodedepending of its children
+ * @root: the node to remove
+ *
+ * Return: 0 if it has no children or other value if it has
  */
 int remove_type(bst_t *root)
 {

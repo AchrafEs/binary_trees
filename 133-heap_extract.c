@@ -1,7 +1,8 @@
 #include "binary_trees.h"
 
 /**
- * max - a function that Finds the maximum node in a tree.
+ * max - a function that Finds the
+ * maximum node in a tree.
  * @tree: The pointer to the root of the tree.
  *
  * Return: The node with the maximum value.

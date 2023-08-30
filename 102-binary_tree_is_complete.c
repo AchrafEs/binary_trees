@@ -77,7 +77,8 @@ void _pop(link_t **head)
 }
 
 /**
- * binary_tree_is_complete - a function that checks if a binary tree is complete
+ * binary_tree_is_complete - a function that checks if
+ * a binary tree is complete
  * @tree: Type pointer of node of the tree
  *
  * Return: 1 if it's complete 0 if it's not
